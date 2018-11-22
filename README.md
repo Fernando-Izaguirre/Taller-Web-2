@@ -1,1 +1,5 @@
-# Taller-Web-2
+# Taller Web 2
+
+- Manuelin
+- Fernando
+- Frank
