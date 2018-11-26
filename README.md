@@ -2,5 +2,5 @@
 ## Integrantes
 - Manuelin
 - Fernandin
-- Frank
+- Francisito
 ## Proyecto Dental 
